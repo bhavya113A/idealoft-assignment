@@ -1,14 +1,7 @@
 # idealoft-assignment
-This project is a static website designed for EquiTek, showcasing the company's offerings in the virtual reality (VR) space. The website features a modern, responsive design with sections for home, about us, products, VR experiences, and a mailing list signup.
+This project is a static website designed for EquiTek. The website features a modern, responsive design with sections for home, about us, products, VR experiences, and a mailing list signup.
 
 
--> Responsive navigation bar
--> Hero section with a call to action
--> Information sections about innovation, future building, and connected worlds
--> Product section with a horizontal slider
--> VR experience promotion
--> Subscription form for a mailing list
--> Footer with contact information and social links
 
 I have to write some point that i experienced:
 
